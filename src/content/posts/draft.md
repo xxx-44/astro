@@ -1,5 +1,5 @@
 ---
-title: Draft Example
+title: Test Astro
 published: 2022-07-01
 tags: [Markdown, Blogging, Demo]
 category: Examples

@@ -42,9 +42,9 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: 'assets/images/onepiece06_chopper.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  name: 'Test user',
+  bio: 'I like Karaage!  Karaage is japanese Fried Chiken.',
   links: [
     {
       name: 'Twitter',
@@ -61,7 +61,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/xxx-44',
     },
   ],
 }
