@@ -13,7 +13,7 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
   },
   [LinkPreset.Archive]: {
     name: i18n(I18nKey.archive),
-    url: 'https://next-task-rust-iota.vercel.app/',
+    url: '/archive/',
     external: true,
     // url: '/archive/',
   },
