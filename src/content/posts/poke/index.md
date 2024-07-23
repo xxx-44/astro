@@ -1,14 +1,14 @@
 ---
-title: Simple Guides for Fuwari
-published: 2024-04-01
-description: "How to use this blog template."
+title: API practice
+published: 2024-05-01
+description: "Pokemon APIを使った図鑑サイトの作成
 image: "./poke.png"
-tags: ["Fuwari", "Blogging", "Customization"]
-category: Guides
+tags: ["React", "API"]
+category: Tool
 draft: false
 ---
 
-## GitHub repository cards
-You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API. 
+## 初めてのAPI
+reactのライブラリに触れたときと同じくとてもワクワクしました！
 
 ::github{repo="xxx-44/poke"}

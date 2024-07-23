@@ -1,14 +1,14 @@
 ---
-title: Simple Guides for Fuwari
-published: 2024-04-01
-description: "How to use this blog template."
+title: Nextjs practice
+published: 2024-06-01
+description: "JsonPlaceholder APIを使ったブログサイトの作成"
 image: "./blog1.png"
-tags: ["Fuwari", "Blogging", "Customization"]
-category: Guides
+tags: ["Nextjs", "Page Router","API"]
+category: Blog
 draft: false
 ---
 
-## GitHub repository cards
-You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API. 
+## 初めてのNextjs
+ルーティングの方法が簡単で驚きでした。
 
 ::github{repo="xxx-44/test-nextjs"}

@@ -1,14 +1,14 @@
 ---
-title: Simple Guides for Fuwari
-published: 2024-04-01
-description: "How to use this blog template."
+title: APProuter practice
+published: 2024-06-08
+description: "GeminiApiを使ったチャットアプリの作成"
 image: "./chat.png"
-tags: ["Fuwari", "Blogging", "Customization"]
-category: Guides
+tags: ["Nextjs", "APP Router", "API"]
+category: Chat
 draft: false
 ---
 
-## GitHub repository cards
-You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API. 
+## 初めてのAPProuter
+Page routerに比べて感覚的にルーティングできて感動でした！
 
 ::github{repo="xxx-44/chat"}
