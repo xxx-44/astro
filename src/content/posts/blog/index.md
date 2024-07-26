@@ -10,5 +10,6 @@ draft: false
 
 ## 初めてのNextjs
 ルーティングの方法が簡単で驚きでした。
+https://test-nextjs-sigma-sable.vercel.app/
 
 ::github{repo="xxx-44/test-nextjs"}
